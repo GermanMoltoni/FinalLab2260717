@@ -1,0 +1,7 @@
+C:\Users\alumno\Desktop\Moltoni.German.2017.FinalLAB2\PuntoSiete\bin\Debug\PuntoSiete.dll
+C:\Users\alumno\Desktop\Moltoni.German.2017.FinalLAB2\PuntoSiete\bin\Debug\PuntoSiete.pdb
+C:\Users\alumno\Desktop\Moltoni.German.2017.FinalLAB2\PuntoSiete\obj\Debug\PuntoSiete.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Moltoni.German.2017.FinalLAB2\PuntoSiete\obj\Debug\PuntoSiete.dll
+C:\Users\alumno\Desktop\Moltoni.German.2017.FinalLAB2\PuntoSiete\obj\Debug\PuntoSiete.pdb
+C:\Users\alumno\Desktop\Moltoni.German.2017.FinalLAB2\PuntoSiete\bin\Debug\PuntoTres.dll
+C:\Users\alumno\Desktop\Moltoni.German.2017.FinalLAB2\PuntoSiete\bin\Debug\PuntoTres.pdb

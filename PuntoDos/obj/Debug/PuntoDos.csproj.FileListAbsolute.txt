@@ -1,0 +1,4 @@
+C:\Users\alumno\Desktop\Moltoni.German.2017.FinalLAB2\PuntoDos\bin\Debug\PuntoDos.dll
+C:\Users\alumno\Desktop\Moltoni.German.2017.FinalLAB2\PuntoDos\bin\Debug\PuntoDos.pdb
+C:\Users\alumno\Desktop\Moltoni.German.2017.FinalLAB2\PuntoDos\obj\Debug\PuntoDos.dll
+C:\Users\alumno\Desktop\Moltoni.German.2017.FinalLAB2\PuntoDos\obj\Debug\PuntoDos.pdb

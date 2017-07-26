@@ -1,0 +1,5 @@
+C:\Users\alumno\Desktop\Moltoni.German.2017.FinalLAB2\PuntoUno\obj\Debug\PuntoUno.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Moltoni.German.2017.FinalLAB2\PuntoUno\bin\Debug\PuntoUno.dll
+C:\Users\alumno\Desktop\Moltoni.German.2017.FinalLAB2\PuntoUno\bin\Debug\PuntoUno.pdb
+C:\Users\alumno\Desktop\Moltoni.German.2017.FinalLAB2\PuntoUno\obj\Debug\PuntoUno.dll
+C:\Users\alumno\Desktop\Moltoni.German.2017.FinalLAB2\PuntoUno\obj\Debug\PuntoUno.pdb

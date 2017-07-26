@@ -1,0 +1,4 @@
+C:\Users\alumno\Desktop\Moltoni.German.2017.FinalLAB2\PuntoTres\bin\Debug\PuntoTres.dll
+C:\Users\alumno\Desktop\Moltoni.German.2017.FinalLAB2\PuntoTres\bin\Debug\PuntoTres.pdb
+C:\Users\alumno\Desktop\Moltoni.German.2017.FinalLAB2\PuntoTres\obj\Debug\PuntoTres.dll
+C:\Users\alumno\Desktop\Moltoni.German.2017.FinalLAB2\PuntoTres\obj\Debug\PuntoTres.pdb

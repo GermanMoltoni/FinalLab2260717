@@ -1,0 +1,5 @@
+C:\Users\alumno\Desktop\Moltoni.German.2017.FinalLAB2\PuntoCuatro\bin\Debug\PuntoCuatro.dll
+C:\Users\alumno\Desktop\Moltoni.German.2017.FinalLAB2\PuntoCuatro\bin\Debug\PuntoCuatro.pdb
+C:\Users\alumno\Desktop\Moltoni.German.2017.FinalLAB2\PuntoCuatro\obj\Debug\PuntoCuatro.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Moltoni.German.2017.FinalLAB2\PuntoCuatro\obj\Debug\PuntoCuatro.dll
+C:\Users\alumno\Desktop\Moltoni.German.2017.FinalLAB2\PuntoCuatro\obj\Debug\PuntoCuatro.pdb
